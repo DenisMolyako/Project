@@ -1,0 +1,8 @@
+.container {
+    max-width: 1080;
+    width: 100%;
+    margin: 0 auto;
+    height: 500px;
+    background-color: cadetblue;
+}
+
